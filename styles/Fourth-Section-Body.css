@@ -1,0 +1,18 @@
+.Fourth-Section {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 10px;
+}
+
+.Fourth-Section img {
+  height: 50%;
+  width: 100%;
+}
+.Fourth-Section .P-1 {
+  font-weight: bold;
+}
+.Fourth-Section .P-2 {
+  color: gray;
+}
+

@@ -1,0 +1,8 @@
+.First-Section {
+  display: flex;
+  padding: 5px 0px 0px 0px;
+  justify-content: space-between;
+  color: gray;
+  font-weight: bold;
+  height: 40px;
+}
